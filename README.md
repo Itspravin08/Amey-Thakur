@@ -139,9 +139,9 @@ Here are some ideas to get you started:
 
 ---
 
-**<p align="center"> <b> THANK YOU FOR YOUR VISIT <b> </p>**
+**<p align="center"> <b><h2>THANK YOU FOR YOUR VISIT </h2><b> </p>**
 
-**<p align="center"> <b> HAVE A GREAT TIME! <b> </p>**
+**<p align="center"> <b><h3> HAVE A GREAT TIME!<h3> <b> </p>**
 
 ##
 
